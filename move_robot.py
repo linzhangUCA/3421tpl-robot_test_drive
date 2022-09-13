@@ -12,8 +12,6 @@ from gpiozero import Robot
 
 
 #### Write your code below ####
-# Instantiate robot
 # robot = Robot()
 
-# Main loop
 # While Ture:
