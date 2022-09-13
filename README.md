@@ -1,10 +1,8 @@
-# GPIO Practice
+# Motor Driver Get Started
 ## Instructions:
-### 1. (40%) `fade_in_fade_out.py`. 
-Make an LED to repeatedly fade in and fade out. In each cycle, use 2 second to fade in, 1 second to fade out.
-
-### 2. (60%) `switch_mode.py`.
-Make an LED running under two modes. Use a button to switch the mode.
-- **Mode 1**: fade in and fade out. 2 seconds for fade in, 2 seconds for fade out.
-- **Mode 2**: constantly on.
-- Press the button to toggle the mode.
+1. (80%) Complete `move_robot.py`
+    1. (20%) Drive your robot straight forward for 2 seconds.
+    2. (20%) Spin your robot counter-clockwise (looking from top) for 2 seconds.
+    3. (20%) Drive your robot straight backward for 2 seconds.
+    4. (20%) Spin your robot clockwise (looking from top) for 2 seconds.
+2. (20%) Upload a video of your robot's dance.
