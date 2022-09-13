@@ -1,16 +1,19 @@
 """
-Make a dimmer LED.
-Repeatedly fade in and fade out an LED.
-Use 2 second to fade in and 1 second to fade out.
-
-Hint: PWM
+Drive your robot to make it:
+  1. Go forward 2 seconds
+  2. Spin left 2 seconds
+  3. Go backward 2 seconds
+  4. Spin right 2 seconds
+  
 """
 
 import time
-from gpiozero import PWMLED
+from gpiozero import Robot
 
 
 #### Write your code below ####
-# led = PWMLED(2)
+# Instantiate robot
+# robot = Robot()
 
+# Main loop
 # While Ture:
