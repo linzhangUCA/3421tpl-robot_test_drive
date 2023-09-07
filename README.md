@@ -1,13 +1,15 @@
 # Motor Driver Get Started
 ## Instructions:
 1. (80%) Complete `move_robot.py`
-    1. (20%) Drive your robot straight forward for 2 seconds.
-    2. (20%) Spin your robot counter-clockwise (looking from top) for 2 seconds.
-    3. (20%) Drive your robot straight backward for 2 seconds.
-    4. (20%) Spin your robot clockwise (looking from top) for 2 seconds.
+    1. (10%) Drive your robot straight forward for 2 seconds.
+    2. (10%) Drive your robot straight backward for 2 seconds.
+    3. (10%) Drive your robot forward and turning left at the same time for 2 seconds.
+    4. (10%) Drive your robot backward and turning right at the same time for 2 seconds.
+    5. (10%) Drive your robot forward and turning right at the same time for 2 seconds.
+    6. (10%) Drive your robot backward and turning left at the same time for 2 seconds.
+    7. (10%) Spin your robot in place counter-clockwise (looking from top) for 2 seconds.
+    8. (10%) Spin your robot in place clockwise (looking from top) for 2 seconds.
+    9. You may want to stop the dance in the end.
 2. (20%) Upload a video of your robot's dance.
 
-## Helpful Resources
-- Waveshare Motor Driver Board [Wiki Page](https://www.waveshare.com/wiki/RPi_Motor_Driver_Board).
-- [gpiozero example](https://gpiozero.readthedocs.io/en/stable/recipes.html#robot) of driving a robot.
-- [API](https://gpiozero.readthedocs.io/en/stable/api_boards.html#robot) for Robot class in gpiozero. 
+> **Hint:** Use different speed and/or direction for each motor if not moving straight forward/backward.
