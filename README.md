@@ -1,4 +1,5 @@
-# Motor Driver Get Started
+# Robot Test Drive
+Let's use the motor driver to move our robots.
 ## Instructions:
 1. (80%) Complete `move_robot.py`
     1. (10%) Drive your robot straight forward for 2 seconds.
